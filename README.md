@@ -1,6 +1,6 @@
 # jpa01-emilylaoo
 
-Deployed at: https://jpa01-emilylaoo.dokku-08.cs.ucsb.edu/
+Deployed at: [https://jpa01-emilylaoo.dokku-08.cs.ucsb.edu/](https://emilylao.dokku-08.cs.ucsb.edu)
 
 
 # About this repo
